@@ -3,7 +3,9 @@
 This project was the final project for the Formal Languages and Compilers subjects. 
 
 You can run this program with:
-python program.py input_file.c [—-print]
+
+`python program.py input_file.c [—-print]`
+
 
 When executed with no options, this program will print ‘OK’ if there are no lexycal/syntactic/semantic errors; otherwise, it will print the Error that was found.
 
