@@ -2,7 +2,7 @@
 
 Final project for the Formal Languages and Compilers courses. 
 
-# Usage
+## Usage
 
 You can run this program with:
 
