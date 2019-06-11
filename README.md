@@ -1,6 +1,6 @@
 # Arduino C Compiler
 
-Final project for the Formal Languages and Compilers subjects. 
+Final project for the Formal Languages and Compilers courses. 
 
 You can run this program with:
 
