@@ -1,5 +1,7 @@
 # Arduino C Compiler
 
+This project was the final project for the Formal Languages and Compilers subjects. 
+
 You can run this program with:
 python program.py input_file.c [—-print]
 
