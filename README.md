@@ -9,4 +9,4 @@ You can run this program with:
 
 When executed with no options, this program will print ‘OK’ if there are no lexycal/syntactic/semantic errors; otherwise, it will print the Error that was found.
 
-When executed with the `—-print` option, it will print the Symbols’ Table, the Intermediary Code and the Warnings if there are no lexycal/syntactic/semantic errors;  otherwise, it will print the Error that was found.
+When executed with the `—-print` option, if there are no lexycal/syntactic/semantic errors, it will print the Symbols’ Table, the Intermediary Code and the Warnings;  otherwise, it will print the Error that was found.
